@@ -8,3 +8,13 @@ What does this example show?
 The details post is available here (https://datmt.com/backend/integrate-keycloak-with-spring-boot-step-by-step/)
 
 
+## Tests
+
+
+http://localhost:9090/public/hello
+
+* Reponse : " Hello public user".
+
+As you can see, it works as expected. The path begins with /public so anyone can access without any authentication.
+
+
