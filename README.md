@@ -52,4 +52,4 @@ Authorize using browser should be unchecked, use a url that is authorised by key
 http://ip:port/auth/realms/datmt-test-realm/protocol/openid-connect/token/
 
 
-http://10.10.156.15:8024/auth/realms/datmt-test-realm/protocol/openid-connect/token/
+http://localhost:8024/auth/realms/datmt-test-realm/protocol/openid-connect/token/
